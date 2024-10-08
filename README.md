@@ -2,14 +2,14 @@
 Meu nome é Danilo Vergínio da Silva e sou tecnólogo em Banco de Dados pela FATEC São José dos Campos. Durante minha formação, adquiri sólidos conhecimentos em bancos de dados relacionais e NoSQL, além de experiência em desenvolvimento de software utilizando linguagens como Python, Java e SQL. Ao longo dessa jornada, desenvolvi habilidades técnicas e interpessoais, como liderança de equipes em projetos de desenvolvimento, capacidade de trabalhar em ambientes colaborativos e a prática de boas práticas de programação, através de Projetos Integrados (API).
 
 
-## Projeto01
+## Projeto01 - Fatec
 
-## Projeto02
+## Projeto02 - Dom Rock
 
-## Projeto03
+## Projeto03 - Iacit
 
-## Projeto04
+## Projeto04 - Embraer
 
-## Projeto05
+## Projeto05 - Pro4Tech
 
-## Projeto05
+## Projeto05 - Imagem
